@@ -4,3 +4,7 @@
 
 /GeekBurger.Dashboard/obj
 /.vs/GeekBurger.Dashboard/v15/Server/sqlite3
+/GeekBurger.Dashboard/bin/Debug/netcoreapp2.0
+/.vs/GeekBurger.Dashboard/v15
+/GeekBurger.Dashboard.Interface/bin/Debug/netstandard2.0
+/GeekBurger.Dashboard.Interface/obj
