@@ -1,11 +1,23 @@
-﻿namespace GeekBurger.Dashboard.Interface
+﻿namespace GeekBurger.Dashboard.Contract
 {
-    using System;
-
+    /// <summary>
+    /// Defines the OUT contract of API of restrictions per user.
+    ///     It will return all products the user has regardless it's ingredients restriction
+    /// </summary>
     interface IRestrictionsPerUserOut
     {
-        Guid IdUser { get; set; }
+        #region Properties
 
+        /// <summary>
+        /// Gets or sets the user.
+        /// </summary>
+        IUser User { get; set; }
+
+        /// <summary>
+        /// Gets or sets the count of restrictions the user have.
+        /// </summary>
         int Count { get; set; }
+
+        #endregion
     }
 }
