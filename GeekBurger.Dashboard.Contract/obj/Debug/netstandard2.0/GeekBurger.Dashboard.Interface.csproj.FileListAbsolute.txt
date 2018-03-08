@@ -1,9 +1,0 @@
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\bin\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.deps.json
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\bin\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.dll
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\bin\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.pdb
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.csprojResolveAssemblyReference.cache
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.csproj.CoreCompileInputs.cache
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.AssemblyInfoInputs.cache
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.AssemblyInfo.cs
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.dll
-C:\Users\logonrm\source\repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Interface\obj\Debug\netstandard2.0\GeekBurger.Dashboard.Interface.pdb
