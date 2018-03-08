@@ -2,8 +2,8 @@
 {
     using System;
 
-    interface IUser
+    interface IRestrictionsPerUserIn
     {
-        Guid Id { get; set; }
+        Guid IdUser { get; set; }
     }
 }
