@@ -66,5 +66,10 @@
             Gets or sets the id of user.
             </summary>
         </member>
+        <member name="P:GeekBurger.Dashboard.Contract.IUser.Name">
+            <summary>
+            Gets or sets the user's name
+            </summary>
+        </member>
     </members>
 </doc>
