@@ -14,6 +14,11 @@
         /// </summary>
         Guid Id { get; set; }
 
+        /// <summary>
+        /// Gets or sets the user's name
+        /// </summary>
+        string Name { get; set; }
+
         #endregion
     }
 }
