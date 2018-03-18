@@ -4,7 +4,7 @@
     /// Defines the OUT contract of API of restrictions per user.
     ///     It will return all products the user has regardless it's ingredients restriction
     /// </summary>
-    interface IRestrictionsPerUserOut
+    public interface IRestrictionsPerUserOut
     {
         #region Properties
 

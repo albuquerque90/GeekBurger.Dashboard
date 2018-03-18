@@ -5,7 +5,7 @@
     /// <summary>
     /// Defines the mock contract of user.
     /// </summary>
-    interface IUser
+    public interface IUser
     {
         #region Properties
 

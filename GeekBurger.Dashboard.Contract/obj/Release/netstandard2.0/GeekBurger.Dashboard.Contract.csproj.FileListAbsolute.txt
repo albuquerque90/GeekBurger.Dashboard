@@ -1,0 +1,8 @@
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\bin\Release\netstandard2.0\GeekBurger.Dashboard.Contract.deps.json
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\bin\Release\netstandard2.0\GeekBurger.Dashboard.Contract.dll
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\bin\Release\netstandard2.0\GeekBurger.Dashboard.Contract.pdb
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\obj\Release\netstandard2.0\GeekBurger.Dashboard.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\obj\Release\netstandard2.0\GeekBurger.Dashboard.Contract.AssemblyInfoInputs.cache
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\obj\Release\netstandard2.0\GeekBurger.Dashboard.Contract.AssemblyInfo.cs
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\obj\Release\netstandard2.0\GeekBurger.Dashboard.Contract.dll
+C:\Users\Leona\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Contract\obj\Release\netstandard2.0\GeekBurger.Dashboard.Contract.pdb

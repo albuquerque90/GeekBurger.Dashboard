@@ -4,7 +4,7 @@
     /// Defines the OUT contract of API of sales per hour in the actual day.
     ///     It will return all sales occurs in the specified hour
     /// </summary>
-    interface ISalesPerHourOut
+    public interface ISalesPerHourOut
     {
         #region Properties
 

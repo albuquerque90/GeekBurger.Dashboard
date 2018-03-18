@@ -3,7 +3,7 @@
     /// <summary>
     /// Defines the IN contract of API of sales per hour in the actual day.
     /// </summary>
-    interface ISalesPerHourIn
+    public interface ISalesPerHourIn
     {
         #region Properties
 

@@ -5,7 +5,7 @@
     /// <summary>
     /// Defines the IN contract of API of restrictions per user.
     /// </summary>
-    interface IRestrictionsPerUserIn
+    public interface IRestrictionsPerUserIn
     {
         #region Properties
 
