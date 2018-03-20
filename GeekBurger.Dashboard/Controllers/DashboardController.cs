@@ -12,23 +12,22 @@ namespace GeekBurger.Dashboard.Controllers
     public class DashboardController : Controller
     {
         /// <summary>
-        /// Gets the restriction per user sending IRestrictionsPerUserIn
+        /// Gets the restriction per user sending IMenuPerUserIn
         /// </summary>
-        /// <param name="prIRestrictionsPerUserIn"></param>
         /// <returns></returns>
-        [HttpGet("getRestrictionsPerUser")]
-        public IRestrictionsPerUserOut getRestrictionsPerUser(IRestrictionsPerUserIn prIRestrictionsPerUserIn)
+        [HttpGet("GetMenuPerUser")]
+        public async Task<IActionResult> GetMenuPerUser()
         {
             return null;
         }
 
         /// <summary>
-        /// Gets the sales per hour sending IRestrictionsPerUserIn
+        /// Gets the sales per hour sending IMenuPerUserIn
         /// </summary>
         /// <param name="prISalesPerHourIn"></param>
         /// <returns></returns>
-        [HttpGet("getSalesPerHour")]
-        public ISalesPerHourOut getSalesPerHour(ISalesPerHourIn prISalesPerHourIn)
+        [HttpGet("GetSalesPerHour")]
+        public async Task<IActionResult> GetSalesPerHour(int hour)
         {
             return null;
         }
