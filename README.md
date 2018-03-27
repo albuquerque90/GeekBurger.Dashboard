@@ -7,7 +7,7 @@ Professor: Daniel Makiyama
 
 
 
-    Integrantes
+    	Integrantes
 
 •	35516 – Leonardo Felipe Forjanes Gandra
 
