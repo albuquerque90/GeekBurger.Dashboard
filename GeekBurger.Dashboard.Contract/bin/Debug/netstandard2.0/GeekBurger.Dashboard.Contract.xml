@@ -4,71 +4,10 @@
         <name>GeekBurger.Dashboard.Contract</name>
     </assembly>
     <members>
-        <member name="T:GeekBurger.Dashboard.Contract.IRestrictionsPerUserIn">
-            <summary>
-            Defines the IN contract of API of restrictions per user.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.IRestrictionsPerUserIn.UserId">
-            <summary>
-            Gets or sets the user id.
-            </summary>
-        </member>
-        <member name="T:GeekBurger.Dashboard.Contract.IRestrictionsPerUserOut">
+        <member name="T:GeekBurger.Dashboard.Contract.MenuPerUserOut">
             <summary>
             Defines the OUT contract of API of restrictions per user.
                 It will return all products the user has regardless it's ingredients restriction
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.IRestrictionsPerUserOut.User">
-            <summary>
-            Gets or sets the user.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.IRestrictionsPerUserOut.Count">
-            <summary>
-            Gets or sets the count of restrictions the user have.
-            </summary>
-        </member>
-        <member name="T:GeekBurger.Dashboard.Contract.ISalesPerHourIn">
-            <summary>
-            Defines the IN contract of API of sales per hour in the actual day.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.ISalesPerHourIn.Hour">
-            <summary>
-            Gets or sets the hour of request.
-            </summary>
-        </member>
-        <member name="T:GeekBurger.Dashboard.Contract.ISalesPerHourOut">
-            <summary>
-            Defines the OUT contract of API of sales per hour in the actual day.
-                It will return all sales occurs in the specified hour
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.ISalesPerHourOut.Hour">
-            <summary>
-            Gets or sets the hour of request.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.ISalesPerHourOut.Count">
-            <summary>
-            Gets or sets the count of sales the hour have.
-            </summary>
-        </member>
-        <member name="T:GeekBurger.Dashboard.Contract.IUser">
-            <summary>
-            Defines the mock contract of user.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.IUser.Id">
-            <summary>
-            Gets or sets the id of user.
-            </summary>
-        </member>
-        <member name="P:GeekBurger.Dashboard.Contract.IUser.Name">
-            <summary>
-            Gets or sets the user's name
             </summary>
         </member>
     </members>

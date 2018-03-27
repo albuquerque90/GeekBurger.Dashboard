@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBurger.Dashboard", "GeekBurger.Dashboard\GeekBurger.Dashboard.csproj", "{0A6B4B0C-4705-46DA-B33E-613007D2D22C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBurger.Dashboard.Contract", "GeekBurger.Dashboard.Contract\GeekBurger.Dashboard.Contract.csproj", "{68E87839-9266-4C80-8686-3A477C06FC90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBurger.Dashboard.Contract", "GeekBurger.Dashboard.Contract\GeekBurger.Dashboard.Contract.csproj", "{68E87839-9266-4C80-8686-3A477C06FC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBurger.Dashboard.ProductListPerUserFunction", "GeekBurger.Dashboard.ProductListPerUserFunction\GeekBurger.Dashboard.ProductListPerUserFunction.csproj", "{F3A9D22F-AE6D-432F-99C3-C4FE9F800978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBurger.Dashboard.OrderFinishedFunction", "GeekBurger.Dashboard.OrderFinishedFunction\GeekBurger.Dashboard.OrderFinishedFunction.csproj", "{39320C88-B1A7-468E-99DA-E92A4690BD3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{68E87839-9266-4C80-8686-3A477C06FC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68E87839-9266-4C80-8686-3A477C06FC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68E87839-9266-4C80-8686-3A477C06FC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A9D22F-AE6D-432F-99C3-C4FE9F800978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A9D22F-AE6D-432F-99C3-C4FE9F800978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A9D22F-AE6D-432F-99C3-C4FE9F800978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A9D22F-AE6D-432F-99C3-C4FE9F800978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39320C88-B1A7-468E-99DA-E92A4690BD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39320C88-B1A7-468E-99DA-E92A4690BD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39320C88-B1A7-468E-99DA-E92A4690BD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39320C88-B1A7-468E-99DA-E92A4690BD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

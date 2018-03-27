@@ -1,0 +1,8 @@
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.deps.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.runtimeconfig.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.runtimeconfig.dev.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.dll
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.AssemblyInfoInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.AssemblyInfo.cs
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.Function\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.Function.csprojResolveAssemblyReference.cache

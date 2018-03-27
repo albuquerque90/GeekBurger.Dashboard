@@ -1,0 +1,11 @@
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.deps.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.runtimeconfig.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.runtimeconfig.dev.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.dll
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.AssemblyInfoInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.AssemblyInfo.cs
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.pdb
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.dll
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.ProductListPerUserFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.ProductListPerUserFunction.pdb

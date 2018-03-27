@@ -1,0 +1,11 @@
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.deps.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.runtimeconfig.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.runtimeconfig.dev.json
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.dll
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.csproj.CoreCompileInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.AssemblyInfoInputs.cache
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.AssemblyInfo.cs
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\bin\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.pdb
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.dll
+C:\Users\logonrm\Source\Repos\GeekBurger.Dashboard\GeekBurger.Dashboard.OrderFinishedFunction\obj\Debug\netcoreapp2.0\GeekBurger.Dashboard.OrderFinishedFunction.pdb
