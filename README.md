@@ -32,7 +32,7 @@ Neste processo o Dashboard será responsável por coletar as mensagens de ordem 
 •	LabelLoader
 
 O LabelLoader será responsável por varrer uma pasta de imagens de rótulos e enviar para o serviço de ingredientes.
-Swagger.
+
 
 	Swagger.json
 
