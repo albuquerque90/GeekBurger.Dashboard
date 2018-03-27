@@ -6,9 +6,13 @@ Professor: Daniel Makiyama
     Integrantes
 
 •	35516 – Leonardo Felipe Forjanes Gandra
+
 •	37411 – Diego Balduino
+
 •	30868 - Wagner 
+
 •	31976 - Eduardo Nuner
+
 •	31551 – Fernando Albuquerque
 
     Escopo
