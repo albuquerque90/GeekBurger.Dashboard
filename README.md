@@ -52,6 +52,4 @@ https://dashboardgeekburger.azurewebsites.net/swagger/v1/swagger.json
 
 •	Models: Responsável por armazenar as entidades que serão usadas no processo dos micro serviços.
 
-	Estrutura dos métodos
-
 
