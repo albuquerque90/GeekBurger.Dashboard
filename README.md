@@ -51,6 +51,7 @@ https://dashboardgeekburger.azurewebsites.net/swagger/v1/swagger.json
 •	Swagger: O Swagger é um projeto composto por algumas ferramentas que auxiliam o desenvolvedor de APIs REST em algumas tarefas como: modelagem de API, geração de documentos legível da API e geração de códigos do cliente e do servidor com suporte a várias linguagens de programação.
 
 •	Models: Responsável por armazenar as entidades que serão usadas no processo dos micro serviços.
-Estrutura dos responses
+
+	Estrutura dos métodos
 
 
